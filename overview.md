@@ -9,4 +9,4 @@ This file contains 05 features of the Application :
 
 4. Desktop version: the app will also be available on a desktop version where the user can use his pc and play directly
 5. 
-6. the last feature is learning and entertaining : the App is mainly for entertainment and education so the user gonna spend some time to learn about different countries and their general information and maybe the relation or common features.
+6. the last feature is ability to share and add data regarding the countries : the App enable the users to add some data about their particular countries, the information must be original and fact checked. 
