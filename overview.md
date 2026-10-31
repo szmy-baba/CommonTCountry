@@ -8,5 +8,5 @@ This file contains 05 features of the Application :
  3.Mobile device : The application will be available on a mobile phone and for all the systems like ANDROID and IOS
 
 4. Desktop version: the app will also be available on a desktop version where the user can use his pc and play directly
-5. 
-6. the last feature is ability to share and add data regarding the countries : the App enable the users to add some data about their particular countries, the information must be original and fact checked. 
+  
+5. the last feature is ability to share and add data regarding the countries : the App enable the users to add some data about their particular countries, the information must be original and fact checked. 
