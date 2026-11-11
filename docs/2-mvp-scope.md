@@ -10,13 +10,13 @@ To launch a functional web application by **March 15, 2026**.
 
 ## Feature Prioritization Matrix
 
-### Must Have (MVP Lineup)
+**Must Have (MVP Lineup)**
 
-- **Random country feature:** Automatic match for countries.
-- **Manual country selection:** users have the possibility to select their preferred countries.
-- **Common countries features:** share the similarity between the selected countries.
+- * Feature 1 Random country feature:* Automatic match for countries.
+- * Feature 2 Manual country selection:* users have the possibility to select their preferred countries.
+- * Feature 3 Common countries features:* share the similarity between the selected countries.
 
-### Nice to Have (Post-Launch Backlog)
+## Nice to Have (Post-Launch Backlog)
 
-- **Timed  Quiz:** A small timed Quiz to test the users what they have learned.
-- **Mobile Applications:**  Mobile application we be displayed later after successfully establishing the desktop version.
+- * Feature 4Timed  Quiz:* A small timed Quiz to test the users what they have learned.
+- * Feature 5Mobile Applications:*  Mobile application we be displayed later after successfully establishing the desktop version.
