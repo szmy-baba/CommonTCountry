@@ -1,7 +1,7 @@
 # Go-To-Market & Launch Checklist
 
 ## Marketing & User Acquisition
-Temple University Japan (TUJ) students and university communities. We will introduce the application to classmates and friends to attract our first 50 users.
+Share the app with Temple University Japan (TUJ) students and friends. I will introduce the application to classmates and friends and try to attract my first 50 users.
 
 **Value Proposition:** Discover different countries and their similarities through a simple and interactive learning experience.
 
